@@ -1,0 +1,61 @@
+1539222826028	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile.Zq3GT0gMvX2M"
+1539222829241	Marionette	INFO	Listening on port 53039
+1539222829262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539222829321	Marionette	DEBUG	[4294967297] Frame script loaded
+1539222829337	Marionette	DEBUG	[4294967297] Frame script registered
+1539222832942	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539222833133	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539222833372	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://opensource-demo.orangehrmlive.com/
+1539222833447	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://opensource-demo.orangehrmlive.com/
+1539222833539	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://opensource-demo.orangehrmlive.com/
+1539222834335	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://opensource-demo.orangehrmlive.com/
+1539222834335	Marionette	DEBUG	[4294967297] Received DOM event unload for https://opensource-demo.orangehrmlive.com/
+1539222834439	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://opensource-demo.orangehrmlive.com/index.php/dashboard
+1539222834481	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://opensource-demo.orangehrmlive.com/index.php/dashboard
+1539222834731	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539222835089	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://opensource-demo.orangehrmlive.com/index.php/dashboard
+1539222835216	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://opensource-demo.orangehrmlive.com/index.php/dashboard
+1539222835216	Marionette	DEBUG	[4294967297] Received DOM event unload for https://opensource-demo.orangehrmlive.com/index.php/dashboard
+1539222835340	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://opensource-demo.orangehrmlive.com/index.php/auth/login
+1539222835359	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://opensource-demo.orangehrmlive.com/index.php/auth/login
+1539222835371	Marionette	INFO	Stopped listening on port 53039
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 4848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
