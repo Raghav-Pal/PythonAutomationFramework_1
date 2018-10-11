@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: moment
+Version: 0.8.2
+Summary: Dealing with dates and times should be easy
+Home-page: http://github.com/zachwill/moment
+Author: Zach Williams
+Author-email: hey@zachwill.com
+License: MIT
+Description: UNKNOWN
+Keywords: moment,dates,times,zachwill
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.5
